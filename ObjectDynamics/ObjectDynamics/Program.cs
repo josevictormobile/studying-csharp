@@ -22,9 +22,14 @@ namespace ObjectDynamics
             for(int i=0; i < qtdAlunos; i++)
             {
                 int indice = i + 1;
-                alunos.Add(new ExpandoObject());
-                alunos[i].notas = new List<double>() { 0, 0, 0, 0 };
-                alunos[i].media = 0.0;
+                alunos.Add(new//POR ALGUM MOTIVO ESSE TIPO DE CRIAÇÃO DE OBJETO GERA OBJETOS COM PARÂMETROS QUE NÃO PODEM SER ESCRITOS APENAS LIDOS
+                {
+                    nome = "",
+                    matricula = 0,
+                    notas = new List<double>() { 0, 0, 0, 0 },
+                    media = 0,
+                    status = ""
+                });
                 Console.WriteLine("ALUNO Nº " + indice + " FOI CRIADO COM SUCESSO!");
             }
             Console.ReadKey();
