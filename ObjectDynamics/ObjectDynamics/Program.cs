@@ -45,8 +45,9 @@ namespace ObjectDynamics
                 }
                 alunos[j].media = alunos[j].media / 4;
                 if (alunos[j].media >= 7) { alunos[j].status = "APROVADO"; } else { alunos[j].status = "REPROVADO"; }
+                Console.Clear();
             }
-            Console.Clear();
+        
             Console.WriteLine("----------RELATÓRIO----------\n\n");
             Console.WriteLine("SEGUE A LISTA DOS ALUNOS: ");
             foreach (var aluno in alunos)

@@ -26,7 +26,6 @@ namespace uri
             // media *= 10;
             // media = Math.Truncate(media);
             // media /= 10;
-            Console.WriteLine("Alteração JV");
             Console.WriteLine(media);
 
         }
