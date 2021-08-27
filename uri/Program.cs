@@ -6,7 +6,7 @@ namespace uri
     {
         static void Main(string[] args)
         {
-            Uri1065.Executar();
+            Uri1066.Executar();
         }
     }
 }
