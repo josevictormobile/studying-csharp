@@ -1,0 +1,16 @@
+C:\Users\Queyla\Desktop\GAMA\csharp-aprender\uri\bin\Debug\net5.0\uri.exe
+C:\Users\Queyla\Desktop\GAMA\csharp-aprender\uri\bin\Debug\net5.0\uri.deps.json
+C:\Users\Queyla\Desktop\GAMA\csharp-aprender\uri\bin\Debug\net5.0\uri.runtimeconfig.json
+C:\Users\Queyla\Desktop\GAMA\csharp-aprender\uri\bin\Debug\net5.0\uri.runtimeconfig.dev.json
+C:\Users\Queyla\Desktop\GAMA\csharp-aprender\uri\bin\Debug\net5.0\uri.dll
+C:\Users\Queyla\Desktop\GAMA\csharp-aprender\uri\bin\Debug\net5.0\ref\uri.dll
+C:\Users\Queyla\Desktop\GAMA\csharp-aprender\uri\bin\Debug\net5.0\uri.pdb
+C:\Users\Queyla\Desktop\GAMA\csharp-aprender\uri\obj\Debug\net5.0\uri.csproj.AssemblyReference.cache
+C:\Users\Queyla\Desktop\GAMA\csharp-aprender\uri\obj\Debug\net5.0\uri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Queyla\Desktop\GAMA\csharp-aprender\uri\obj\Debug\net5.0\uri.AssemblyInfoInputs.cache
+C:\Users\Queyla\Desktop\GAMA\csharp-aprender\uri\obj\Debug\net5.0\uri.AssemblyInfo.cs
+C:\Users\Queyla\Desktop\GAMA\csharp-aprender\uri\obj\Debug\net5.0\uri.csproj.CoreCompileInputs.cache
+C:\Users\Queyla\Desktop\GAMA\csharp-aprender\uri\obj\Debug\net5.0\uri.dll
+C:\Users\Queyla\Desktop\GAMA\csharp-aprender\uri\obj\Debug\net5.0\ref\uri.dll
+C:\Users\Queyla\Desktop\GAMA\csharp-aprender\uri\obj\Debug\net5.0\uri.pdb
+C:\Users\Queyla\Desktop\GAMA\csharp-aprender\uri\obj\Debug\net5.0\uri.genruntimeconfig.cache
